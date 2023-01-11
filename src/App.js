@@ -5,9 +5,9 @@ import './EightBall.css'
 
 function App() {
   return (
-    <div class="ball">
+    <>
       <EightBall/>
-    </div>
+    </>
   );
 }
 

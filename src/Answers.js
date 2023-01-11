@@ -5,11 +5,9 @@
 const Answers = (props) => {
 
 
-
-
     return (
         <>
-            <p>Test</p>
+            <h1 style={{paddingTop: "180px"}}>{props.msg}</h1>
         </>
     )
 }
